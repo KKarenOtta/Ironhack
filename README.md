@@ -1,5 +1,4 @@
-Antigo github com projetos Ironhack
-https://github.com/karenkota
++repositórios antigos de projetos Ironhack: https://github.com/karenkota
 
 # Ironhack
 Prework Bootcamp Ironhack's 2019 : Mars Hover
